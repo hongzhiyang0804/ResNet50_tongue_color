@@ -3,4 +3,4 @@
 训练网络执行
 (1)python train.py
 预测单张及多张舌像舌色识别结果
-(1)python ckpt_predict.py
+(2)python ckpt_predict.py
